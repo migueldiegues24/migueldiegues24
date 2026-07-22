@@ -19,4 +19,4 @@ Software Engineer graduate from **Universidade do Minho** (BSc in Software Engin
 ## Get in touch
  
 - LinkedIn: [linkedin.com/in/migueldiegues24](https://linkedin.com/in/migueldiegues24)
-- Email: migueldiegues24@outlook.com
+- Email: mdiegues24@gmail.com
