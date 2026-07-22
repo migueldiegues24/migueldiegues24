@@ -18,5 +18,5 @@ Software Engineer graduate from **Universidade do Minho** (BSc in Software Engin
 - **[Document-Indexing-and-Search-System](https://github.com/migueldiegues24/Document-Indexing-and-Search-System)** — C projects on process creation, IPC (pipes, shared memory) and semaphore-based synchronization on UNIX/Linux.
 ## Get in touch
  
-- LinkedIn: [linkedin.com/in/SEU-LINKEDIN](https://linkedin.com/in/SEU-LINKEDIN)
-- Email: SEU-EMAIL@exemplo.com
+- LinkedIn: [linkedin.com/in/migueldiegues24](https://linkedin.com/in/migueldiegues24)
+- Email: migueldiegues24@outlook.com
