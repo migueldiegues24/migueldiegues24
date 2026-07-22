@@ -1,6 +1,6 @@
 # Hi, I'm Miguel Diegues
  
-Software Engineer graduate from **Universidade do Minho** (BSc in Software Engineering, 2026), based in Portugal. I like building things end-to-end — from low-level systems in C to full-stack web and mobile apps.
+Software Engineer graduate from **Universidade do Minho** (BSc in Software Engineering, 2026), based in Portugal. I like building things end-to-end from low-level systems in C to full-stack web and mobile apps.
  
 ## Tech Stack
  
