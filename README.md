@@ -7,7 +7,7 @@ Software Engineer graduate from **Universidade do Minho** (BSc in Software Engin
 **Languages:** Java · Python · TypeScript/JavaScript · C/C++
 **Backend:** Spring, distributed systems, concurrency, UNIX/Linux
 **Frontend & Mobile:** React, React Native (Expo), Vue.js
-**Other:** Git, SQL, data analysis (KNIME, pandas)
+**Other:** Git, SQL
 
 ## Get in touch
  
