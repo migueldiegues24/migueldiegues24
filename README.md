@@ -5,9 +5,13 @@ Software Engineer graduate from **Universidade do Minho** (BSc in Software Engin
 ## Tech stack
  
 **Languages:** Java, Python, TypeScript/JavaScript, C, C++, SQL
+
 **Backend:** Spring Boot, Spring Security, Node.js (Express), REST APIs, JWT
+
 **Databases:** PostgreSQL, MySQL
+
 **Frontend & Mobile:** React, React Native (Expo), Vue.js
+
 **Tools:** Git, Linux, Docker
  
 ## Contact
